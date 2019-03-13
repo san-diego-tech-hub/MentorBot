@@ -13,14 +13,15 @@ clientSigningSecret
 Add port:
 `PORT=3000`
 
-## Setup LocalTunnel
+## Start the local server
 
-Install localtunnel: `yarn global add localtunnel` or `npm -g install localtunnel`
-
-Then run it: `lt --port 3000 --subdomain mentorbot`
+`yarn start` or `npm run start`
 
 ## Authorize with slack
 
-Visit https://mentorbot.localtunnel.me/login
+Visit https://localhost:3000/login
+
+Authorize
 
 Start chatting with the bot 
+
