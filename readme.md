@@ -25,3 +25,5 @@ Authorize
 
 Start chatting with the bot 
 
+## Botkit docs:
+https://botkit.ai/docs/readme-slack.html
