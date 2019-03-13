@@ -21,6 +21,6 @@ Then run it: `lt --port 3000 --subdomain mentorbot`
 
 ## Authorize with slack
 
-Visit https://mentorbot.localtunnel.me/oauth
+Visit https://mentorbot.localtunnel.me/login
 
 Start chatting with the bot 
