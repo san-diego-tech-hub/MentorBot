@@ -22,12 +22,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/howdyai/botkit-starter-slack.git"
+    "url": "https://github.com/san-diego-tech-hub/MentorBot"
   },
   "bugs": {
-    "url": "https://github.com/howdyai/botkit-starter-slack/issues"
+    "url": "https://github.com/san-diego-tech-hub/MentorBot/issues"
   },
-  "homepage": "https://github.com/howdyai/botkit-starter-slack",
+  "homepage": "https://github.com/san-diego-tech-hub/MentorBot",
   "keywords": [
     "bots",
     "chatbots",
